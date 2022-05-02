@@ -1,6 +1,7 @@
 package com.company;
 
 public class BinaryRecursive {
+
     public static int binarySearch(int arr[], int left, int right, int item){
         if(right>= left){
             int mid = left + (right -left)/2;
