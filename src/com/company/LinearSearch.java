@@ -98,7 +98,6 @@ public class LinearSearch {
         return sum2;
     }
 
-
     public static void main(String args[]) {
         int[] arr = {12, 5, 18, 25, -3, 19};
         int[][] arr1= {
@@ -117,6 +116,5 @@ public class LinearSearch {
 
        // searchIn2DaArray(arr1, item);
         stringSearch(s,c);
-
     }
 }
